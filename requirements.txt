@@ -1,0 +1,8 @@
+arkindex-export==0.2.1
+tqdm==4.67.3
+pandas
+spacy
+bertopic
+scikit-learn
+sentence-transformers
+matplotlib
